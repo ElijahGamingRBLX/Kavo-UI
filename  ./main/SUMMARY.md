@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Kavo UI](README.md)
-* [Kavo UI](kavodocumentation2.md)
+* [Kavo UI (PC)](README.md)
+* [Kavo UI (Mobile)](kavodocumentation2.md)
